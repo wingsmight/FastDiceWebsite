@@ -1,7 +1,5 @@
 import React from 'react';
 import './AppInfoSection.css';
-import { Button } from './Button';
-import { Link } from 'react-router-dom';
 import MobileStoreButton from 'react-mobile-store-button';
 
 function AppInfoSection({

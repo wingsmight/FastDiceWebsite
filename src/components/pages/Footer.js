@@ -1,7 +1,6 @@
 import React from 'react';
 import './Footer.css';
 import { Button } from './Button';
-import { Link } from 'react-router-dom';
 import { ReactComponent as WMLogo } from './wm.svg';
 
 function Footer() {
@@ -42,7 +41,7 @@ function Footer() {
               </div>
             </div>
           </div>
-          <small class='website-rights'>Ihor Cherkun © 2021</small>
+          <small class='website-rights'>Ihor Cherkun © 2022</small>
         </div>
       </section>
     </div>

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../App.css';
-import AppInfoSection from '../AppInfoSection';
-import Footer from '../Footer';
+import AppInfoSection from './AppInfoSection';
+import Footer from './Footer';
 import { fastDice, audioDefender } from './Data';
 
 function Home() {
