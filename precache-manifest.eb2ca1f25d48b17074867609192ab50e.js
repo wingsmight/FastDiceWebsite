@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "592db03da736dc9424d1247516d30cc0",
+    "revision": "53eb06cddf9209950ee3cc46948c7a7c",
     "url": "/FastDiceWebsite/index.html"
   },
   {
-    "revision": "bb0a3a219ea79da6d0dd",
+    "revision": "45203a6ec6f4f2cace00",
     "url": "/FastDiceWebsite/static/css/main.684ee8bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FastDiceWebsite/static/js/2.b92c2ce7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb0a3a219ea79da6d0dd",
-    "url": "/FastDiceWebsite/static/js/main.70e00442.chunk.js"
+    "revision": "45203a6ec6f4f2cace00",
+    "url": "/FastDiceWebsite/static/js/main.340cdb96.chunk.js"
   },
   {
     "revision": "a4eb7132c14f53f9db21",

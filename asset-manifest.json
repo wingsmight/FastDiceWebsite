@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FastDiceWebsite/static/css/main.684ee8bc.chunk.css",
-    "main.js": "/FastDiceWebsite/static/js/main.70e00442.chunk.js",
-    "main.js.map": "/FastDiceWebsite/static/js/main.70e00442.chunk.js.map",
+    "main.js": "/FastDiceWebsite/static/js/main.340cdb96.chunk.js",
+    "main.js.map": "/FastDiceWebsite/static/js/main.340cdb96.chunk.js.map",
     "runtime-main.js": "/FastDiceWebsite/static/js/runtime-main.9b7ab442.js",
     "runtime-main.js.map": "/FastDiceWebsite/static/js/runtime-main.9b7ab442.js.map",
     "static/js/2.b92c2ce7.chunk.js": "/FastDiceWebsite/static/js/2.b92c2ce7.chunk.js",
     "static/js/2.b92c2ce7.chunk.js.map": "/FastDiceWebsite/static/js/2.b92c2ce7.chunk.js.map",
     "index.html": "/FastDiceWebsite/index.html",
-    "precache-manifest.1db15a29216c9f36270a6bc0ad4da1b7.js": "/FastDiceWebsite/precache-manifest.1db15a29216c9f36270a6bc0ad4da1b7.js",
+    "precache-manifest.eb2ca1f25d48b17074867609192ab50e.js": "/FastDiceWebsite/precache-manifest.eb2ca1f25d48b17074867609192ab50e.js",
     "service-worker.js": "/FastDiceWebsite/service-worker.js",
     "static/css/main.684ee8bc.chunk.css.map": "/FastDiceWebsite/static/css/main.684ee8bc.chunk.css.map",
     "static/js/2.b92c2ce7.chunk.js.LICENSE.txt": "/FastDiceWebsite/static/js/2.b92c2ce7.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9b7ab442.js",
     "static/js/2.b92c2ce7.chunk.js",
     "static/css/main.684ee8bc.chunk.css",
-    "static/js/main.70e00442.chunk.js"
+    "static/js/main.340cdb96.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FastDiceWebsite/precache-manifest.1db15a29216c9f36270a6bc0ad4da1b7.js"
+  "/FastDiceWebsite/precache-manifest.eb2ca1f25d48b17074867609192ab50e.js"
 );
 
 self.addEventListener('message', (event) => {
